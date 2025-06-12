@@ -97,7 +97,6 @@ DOMAIN-SUFFIX,mnuu.nul
 DOMAIN-SUFFIX,codeium.com
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,nikkei.com
-DOMAIN-SUFFIX,posthog.com
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,inkedin.com
 DOMAIN-SUFFIX,remotasks.com
@@ -109,8 +108,6 @@ DOMAIN-SUFFIX,picsum.photos
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,getoutline.org
-DOMAIN-SUFFIX,bnbstatic.com
-DOMAIN-SUFFIX,coingecko.com
 DOMAIN-SUFFIX,mit.edu
 DOMAIN-SUFFIX,kochava.com
 DOMAIN-SUFFIX,half-life.com
@@ -131,9 +128,6 @@ DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,dexscreener.com
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,bybit-aws.com
-DOMAIN-SUFFIX,paw.cloud
-DOMAIN-SUFFIX,heypi.com
-DOMAIN-SUFFIX,ift.tt
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,pressplay.cc
@@ -167,7 +161,6 @@ DOMAIN-SUFFIX,lingq.com
 DOMAIN-SUFFIX,posthog.com
 DOMAIN-SUFFIX,app.link
 DOMAIN-SUFFIX,chatpdf.com
-DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-SUFFIX,lepton.ai
 DOMAIN-SUFFIX,godaddy.com
@@ -189,7 +182,6 @@ DOMAIN-SUFFIX,gvnumber.com
 DOMAIN-SUFFIX,51gv.org
 DOMAIN-SUFFIX,sms-activate.org
 DOMAIN-SUFFIX,interactivebrokers.com
-DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,unpkg.com
 DOMAIN-SUFFIX,gumroad.com
 DOMAIN-SUFFIX,tradingview.com
@@ -241,7 +233,6 @@ DOMAIN-SUFFIX,bnbstatic.com
 DOMAIN-SUFFIX,bgportable.com
 DOMAIN-SUFFIX,coingecko.com
 DOMAIN-KEYWORD,cursor
-DOMAIN-KEYWORD,z-library
 DOMAIN-KEYWORD,outlier
 DOMAIN-KEYWORD,saasexch
 DOMAIN-KEYWORD,binance
