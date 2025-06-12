@@ -5,7 +5,7 @@
 # DOMAIN: 0
 # DOMAIN-KEYWORD: 214
 # DOMAIN-SUFFIX: 29
-# IP-CIDR: 3
+# IP-CIDR: 0
 # TOTAL: 246
 DOMAIN-SUFFIX,piratebayproxy.net
 DOMAIN-SUFFIX,jable.tv
@@ -250,6 +250,3 @@ DOMAIN-KEYWORD,interactivebrokers
 DOMAIN-KEYWORD,stripe
 DOMAIN-KEYWORD,bitget
 DOMAIN-KEYWORD,stream-link
-IP-CIDR,168.138.45.194/32,no-resolve
-IP-CIDR,209.135.170.193/32,no-resolve
-IP-CIDR,43.133.168.230/32,no-resolve
