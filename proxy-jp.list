@@ -1,3 +1,5 @@
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,wandb.ai
 DOMAIN-SUFFIX,duckduckgo.com
@@ -92,7 +94,6 @@ DOMAIN-SUFFIX,longbridge.com
 DOMAIN-SUFFIX,nation.so
 DOMAIN-SUFFIX,mnuu.nul
 DOMAIN-SUFFIX,codeium.com
-DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,nikkei.com
 DOMAIN-SUFFIX,segment.io
 DOMAIN-SUFFIX,inkedin.com
