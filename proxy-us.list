@@ -8,5 +8,6 @@
 # IP-CIDR: 0
 # TOTAL: 1
 
+DOMAIN-SUFFIX,maxmind.com
 DOMAIN-SUFFIX,dartnode.com
 DOMAIN-SUFFIX,kraken.com
