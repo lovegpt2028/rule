@@ -8,6 +8,7 @@
 # IP-CIDR: 0
 # TOTAL: 1
 
+DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,warp.dev
 DOMAIN-SUFFIX,maxmind.com
 DOMAIN-SUFFIX,dartnode.com
