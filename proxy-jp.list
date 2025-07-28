@@ -9,8 +9,6 @@ DOMAIN-SUFFIX,gradio.live
 DOMAIN-SUFFIX,walletconnect.org
 DOMAIN-SUFFIX,bwb.online
 DOMAIN-SUFFIX,tradingview.com
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discord.gg
@@ -133,7 +131,6 @@ DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,gluonhq.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,docker.com
-DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,dexscreener.com
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,bybit-aws.com
@@ -218,7 +215,6 @@ DOMAIN-SUFFIX,you.com
 DOMAIN-SUFFIX,suno.ai
 DOMAIN-SUFFIX,netsarang.com
 DOMAIN-SUFFIX,jsdelivr.net
-DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,bitverse.zone
 DOMAIN-SUFFIX,bybdc6.com
 DOMAIN-SUFFIX,od-cdn.com
