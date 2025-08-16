@@ -1,10 +1,10 @@
-  - DOMAIN-SUFFIX,npmjs.org
-  - DOMAIN-KEYWORD,av
-  - DOMAIN-SUFFIX,motv.app
-  - DOMAIN-KEYWORD,missa
-  - DOMAIN-KEYWORD,javdb
-  - DOMAIN-SUFFIX,uaa.com
-  - DOMAIN-KEYWORD,abema
-  - DOMAIN-SUFFIX,github.com
-  - DOMAIN-SUFFIX,ghcr.io
-  - DOMAIN-SUFFIX,lmstudio.ai
+DOMAIN-SUFFIX,npmjs.org
+DOMAIN-KEYWORD,av
+DOMAIN-SUFFIX,motv.app
+DOMAIN-KEYWORD,missa
+DOMAIN-KEYWORD,javdb
+DOMAIN-SUFFIX,uaa.com
+DOMAIN-KEYWORD,abema
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,lmstudio.ai
