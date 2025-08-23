@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-KEYWORD,fonts.googleapis.com
 DOMAIN-SUFFIX,npmjs.org
 DOMAIN-SUFFIX,motv.app
 DOMAIN-SUFFIX,uaa.com
@@ -18,4 +19,3 @@ DOMAIN-KEYWORD,av
 DOMAIN-KEYWORD,missa
 DOMAIN-KEYWORD,javdb
 DOMAIN-KEYWORD,abema
-DOMAIN-KEYWORD,fonts.googleapis.com
