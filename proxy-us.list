@@ -8,6 +8,9 @@
 # IP-CIDR: 0
 # TOTAL: 1
 
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,meta.com
+DOMAIN-KEYWORD,facebook
 DOMAIN-SUFFIX,gog.com
 DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,chronosphere.io
