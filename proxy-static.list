@@ -28,3 +28,4 @@ DOMAIN-KEYWORD,assets.grok.com
 DOMAIN-KEYWORD,cloudfront.net
 DOMAIN-KEYWORD,public.ecr.aws
 DOMAIN-KEYWORD,debian.org
+IP-CIDR,88.212.7.11/32
