@@ -142,7 +142,6 @@ DOMAIN-SUFFIX,apnews.com
 DOMAIN-SUFFIX,cisco.com
 DOMAIN-SUFFIX,python.org
 DOMAIN-SUFFIX,nodejs.org
-DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,gluonhq.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,docker.com
@@ -254,7 +253,6 @@ DOMAIN-KEYWORD,wwmxd
 DOMAIN-KEYWORD,outlier
 DOMAIN-KEYWORD,saasexch
 DOMAIN-KEYWORD,binance
-DOMAIN-KEYWORD,oraclecloud
 DOMAIN-KEYWORD,wikipedia
 DOMAIN-KEYWORD,talkatone
 DOMAIN-KEYWORD,civitai
