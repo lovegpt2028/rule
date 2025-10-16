@@ -8,6 +8,7 @@
 # IP-CIDR: 0
 # TOTAL: 1
 
+DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,acast.com
 DOMAIN-SUFFIX,xp.apple.com
 DOMAIN-SUFFIX,podcasts.apple.com
