@@ -8,6 +8,7 @@
 # IP-CIDR: 0
 # TOTAL: 1
 
+DOMAIN-KEYWORD,adobe
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,acast.com
