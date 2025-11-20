@@ -2,4 +2,7 @@ DOMAIN-SUFFIX,antigravity-unleash.goog
 DOMAIN-SUFFIX,lh3.googleusercontent.com
 DOMAIN-SUFFIX,daily-cloudcode-pa.sandbox.googleapis.com
 DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,us-central1.run.app
+DOMAIN-SUFFIX,antigravity.google
+DOMAIN-SUFFIX,open-vsx.org
+DOMAIN-SUFFIX,default.exp-tas.com
+DOMAIN-WILDCARD,antigravity-auto-updater-*.us-central*.run.app
