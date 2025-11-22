@@ -1,3 +1,39 @@
+# === aptv流媒体服务商 (建议保持 DOMAIN-SUFFIX) ===
+DOMAIN-SUFFIX,bozztv.com
+DOMAIN-SUFFIX,corusdigitaldev.com
+DOMAIN-SUFFIX,getaj.net
+DOMAIN-SUFFIX,its-newid.net
+DOMAIN-SUFFIX,jmp2.uk
+DOMAIN-SUFFIX,megogo.xyz
+DOMAIN-SUFFIX,ottera.tv
+DOMAIN-SUFFIX,rakuten.tv
+DOMAIN-SUFFIX,rttv.com
+DOMAIN-SUFFIX,trt.com.tr
+DOMAIN-SUFFIX,transmit.live
+DOMAIN-SUFFIX,wurl.com
+DOMAIN-SUFFIX,wurl.tv
+DOMAIN-SUFFIX,amagi.tv
+
+# === aptv通用 CDN (已转换为 DOMAIN-WILDCARD) ===
+# ⚠️ 注意：这会匹配该域名下的所有子域名
+
+# Akamai 系列
+DOMAIN-WILDCARD,*.akamaihd.net
+DOMAIN-WILDCARD,*.akamaized.net
+
+# aptv Cloudfront (涉及很多直播源，但也会误伤其他使用 Cloudfront 的网站)
+DOMAIN-WILDCARD,*.cloudfront.net
+
+# aptv Amazon AWS 媒体服务 (已精细化，只匹配直播相关子域，更安全)
+DOMAIN-WILDCARD,*.mediapackage.us-east-1.amazonaws.com
+DOMAIN-WILDCARD,*.mediatailor.us-east-1.amazonaws.com
+DOMAIN-WILDCARD,*.mediatailor.us-west-2.amazonaws.com
+DOMAIN-WILDCARD,*.mediatailor.eu-west-1.amazonaws.com
+
+# 其他 CDN 格式
+DOMAIN-WILDCARD,*.linear-*.sonyone.co.uk
+
+# 以下是自定义
 DOMAIN-SUFFIX,bluestacks.com
 DOMAIN-SUFFIX,iterm2.com
 DOMAIN-SUFFIX,tritondigital.com
