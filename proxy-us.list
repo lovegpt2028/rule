@@ -8,6 +8,8 @@
 # IP-CIDR: 0
 # TOTAL: 1
 
+DOMAIN-SUFFIX,localcharms.net
+DOMAIN-SUFFIX,localsoul.online
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,acast.com
