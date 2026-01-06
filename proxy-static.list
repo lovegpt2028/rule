@@ -34,6 +34,7 @@ DOMAIN-WILDCARD,*.mediatailor.eu-west-1.amazonaws.com
 DOMAIN-WILDCARD,*.linear-*.sonyone.co.uk
 
 # 以下是自定义
+DOMAIN-SUFFIX,pkg-containers.githubusercontent.com
 DOMAIN-SUFFIX,bluestacks.com
 DOMAIN-SUFFIX,iterm2.com
 DOMAIN-SUFFIX,tritondigital.com
