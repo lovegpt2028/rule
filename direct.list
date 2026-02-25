@@ -1,12 +1,37 @@
 # NAME: direct.list
-# AUTHOR: unknown
 # REPO: https://github.com/lovegpt2028/rule
-# UPDATED: 2025-06-12 09:58:55
-# DOMAIN: 0
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 2
-# IP-CIDR: 0
-# TOTAL: 2
+# UPDATED: 2026-02-25 15:19:00
+
+# =========================
+# Private Network Rules (plist/classical)
+# For Clash Verge / FlClash
+# =========================
+
+# Loopback
+IP-CIDR,127.0.0.0/8
+IP-CIDR6,::1/128
+
+# RFC1918
+IP-CIDR,10.0.0.0/8
+IP-CIDR,172.16.0.0/12
+IP-CIDR,192.168.0.0/16
+
+# Carrier NAT
+IP-CIDR,100.64.0.0/10
+
+# Link Local
+IP-CIDR,169.254.0.0/16
+IP-CIDR6,fe80::/10
+
+# Multicast
+IP-CIDR,224.0.0.0/4
+IP-CIDR6,ff00::/8
+
+# Broadcast
+IP-CIDR,255.255.255.255/32
+
+# Benchmark
+IP-CIDR,198.18.0.0/15
 
 DOMAIN-SUFFIX,1panel.hellogege.com
 DOMAIN-SUFFIX,tailscale.io
